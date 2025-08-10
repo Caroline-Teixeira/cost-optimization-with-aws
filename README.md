@@ -36,7 +36,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 - **Foco da ferramenta:** Banco de dados gerenciado, seguro e com alta disponibilidade.
 - **Descrição de caso de uso:** Por meio da utilização do Amazon RDS, a empresa estará apta a armazenar e gerenciar informações de estoque, vendas e cadastro de clientes em um banco de dados de alta disponibilidade, com backups automáticos e proteção contra falhas. Essa solução proporciona desempenho otimizado, acesso remoto seguro e escalabilidade conforme o crescimento da demanda.
 
-**🔽 Redução de custos:** Redução de investimentos em infraestrutura física e manutenção local.
+**🔽 Redução de custos:** Redução de investimentos em infraestrutura física e manutenção local.<br>
 **🔼 Principal ganho:** Confiabilidade, segurança e facilidade na gestão de dados críticos.
 
 ## Conclusão
